@@ -5,6 +5,8 @@
 #include <stdio.h>
 
 int main() {
+  int a,d
+  printf("input mark 1",&a);
   
   return 0;
 }
